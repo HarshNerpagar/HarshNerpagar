@@ -1,8 +1,8 @@
 # Hi, I'm Harshvardhan Nerpagar
 
-🎓 Information Technology Undergraduate
-🤖 Interested in Machine Learning, NLP, Deep Learning and AI Systems  
-📍 Pune, India  
+🎓 Information Technology Undergraduate  
+🤖 Interested in Machine Learning, NLP, Deep Learning, and AI Systems  
+📍 Pune, India
 
 ---
 
