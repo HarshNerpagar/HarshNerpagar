@@ -36,7 +36,7 @@
 - Enabled secure, tamper-proof certificate issuance with QR-based verification and smart contracts.
 - Awarded **Best Paper** at **IEEE CCGE 2026**.
 
-### CipherDocs-AI: Vision Language Models for Blockchain Document Verification *(IEEE ICCUBEA 2026, Accepted)*
+### [CipherDocs-AI: Vision Language Models for Blockchain Document Verification](https://ieeexplore.ieee.org/abstract/document/11702281) *(IEEE ICCUBEA 2026, Published)*
 - Extended the CipherDocs framework by integrating Vision Language Models for intelligent document understanding and forgery detection.
 - Combined multimodal AI with blockchain to enhance automated document verification and trustworthiness.
 - **Accepted** at **IEEE ICCUBEA 2026**.
