@@ -42,5 +42,5 @@
 - **Accepted** at **IEEE ICCUBEA 2026**.
 
 ## 🛠️ Technical Skills
-- Languages: Python, C++, Java
+- Languages: Python, C++, C
 - ML/DL: PyTorch, TensorFlow, HuggingFace
