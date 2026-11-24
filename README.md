@@ -21,22 +21,22 @@
 
 ## 📄 Publications
 
-### [Analyzing Abusive Content in Indian Vernacular Languages: A Case Study of Marathi and Bangla](https://dl.acm.org/doi/full/10.1145/3777867.3777880) *(FIRE 2025, Published)*
+### [Analyzing Abusive Content in Indian Vernacular Languages: A Case Study of Marathi and Bangla](https://dl.acm.org/doi/full/10.1145/3777867.3777880) *(FIRE 2025)*
 - Developed multilingual hate speech detection models for Marathi and Bangla using traditional ML, BiLSTM, and transformer-based approaches.
 - Achieved competitive performance through feature engineering, ensemble learning, and cross-lingual transfer learning.
 - Published at **FIRE 2025**, co-located with ACM, IIT BHU.
 
-### [Optimizing Low-Parameterised LLMs with RAG Using Entropy-Based Chunking](https://ieeexplore.ieee.org/document/11580778) *(IEEE ICICI 2026, Published)*
+### [Optimizing Low-Parameterised LLMs with RAG Using Entropy-Based Chunking](https://ieeexplore.ieee.org/document/11580778) *(IEEE ICICI 2026)*
 - Proposed a novel entropy-based chunking strategy to improve Retrieval-Augmented Generation (RAG).
 - Evaluated six chunking methods, achieving higher retrieval accuracy, improved Mean Reciprocal Rank (MRR), and lower retrieval latency.
 - Published in **IEEE ICICI 2026**.
 
-### [CipherDocs: Blockchain-Based Document Verification](https://ieeexplore.ieee.org/document/11581882) *(IEEE CCGE 2026, Published)*
+### [CipherDocs: Blockchain-Based Document Verification](https://ieeexplore.ieee.org/document/11581882) *(IEEE CCGE 2026)*
 - Designed a decentralized document verification framework integrating Polygon, IPFS, OCR, and AI-assisted verification.
 - Enabled secure, tamper-proof certificate issuance with QR-based verification and smart contracts.
 - Awarded **Best Paper** at **IEEE CCGE 2026**.
 
-### [CipherDocs-AI: Vision Language Models for Blockchain Document Verification](https://ieeexplore.ieee.org/abstract/document/11702281) *(IEEE ICCUBEA 2026, Published)*
+### [CipherDocs-AI: Vision Language Models for Blockchain Document Verification](https://ieeexplore.ieee.org/abstract/document/11702281) *(IEEE ICCUBEA 2026)*
 - Extended the CipherDocs framework by integrating Vision Language Models for intelligent document understanding and forgery detection.
 - Combined multimodal AI with blockchain to enhance automated document verification and trustworthiness.
 - **Accepted** at **IEEE ICCUBEA 2026**.
