@@ -39,7 +39,7 @@
 ### [CipherDocs-AI: Vision Language Models for Blockchain Document Verification](https://ieeexplore.ieee.org/abstract/document/11702281) *(IEEE ICCUBEA 2026)*
 - Extended the CipherDocs framework by integrating Vision Language Models for intelligent document understanding and forgery detection.
 - Combined multimodal AI with blockchain to enhance automated document verification and trustworthiness.
-- **Accepted** at **IEEE ICCUBEA 2026**.
+- Published in **IEEE ICCUBEA 2026**.
 
 ## 🛠️ Technical Skills
 - Languages: Python, C++, C
